@@ -1403,34 +1403,34 @@
 13	I.	I-PER	-	EmilStenstrom
 14	Rabin	I-PER	-	EmilStenstrom
 15	:	O	-	-
-16	Infants	B-OTH	-	EmilStenstrom
-17	and	I-OTH	-	EmilStenstrom
-18	Children	I-OTH	-	EmilStenstrom
-19	under	I-OTH	-	EmilStenstrom
-20	Conditions	I-OTH	-	EmilStenstrom
-21	of	I-OTH	-	EmilStenstrom
-22	'	I-OTH	-	EmilStenstrom
-23	Intermittent	I-OTH	-	EmilStenstrom
-24	'	I-OTH	-	EmilStenstrom
-25	Mothering	I-OTH	-	EmilStenstrom
-26	in	I-OTH	-	EmilStenstrom
-27	the	I-OTH	-	EmilStenstrom
-28	Kibbutz	I-OTH	-	EmilStenstrom
+16	Infants	O	-	-
+17	and	O	-	-
+18	Children	O	-	-
+19	under	O	-	-
+20	Conditions	O	-	-
+21	of	O	-	-
+22	'	O	-	-
+23	Intermittent	O	-	-
+24	'	O	-	-
+25	Mothering	O	-	-
+26	in	O	-	-
+27	the	O	-	-
+28	Kibbutz	O	-	-
 29	.	O	-	-
 
 # sent_id = P408-0051
 # text = Publicerad i American Journal of Orthopsychiatry, 1958, xxviii 577-584 .
 1	Publicerad	O	-	-
 2	i	O	-	-
-3	American	B-OTH	-	EmilStenstrom
-4	Journal	I-OTH	-	EmilStenstrom
-5	of	I-OTH	-	EmilStenstrom
-6	Orthopsychiatry	I-OTH	-	EmilStenstrom
-7	,	I-OTH	-	EmilStenstrom
-8	1958	I-OTH	-	EmilStenstrom
-9	,	I-OTH	-	EmilStenstrom
-10	xxviii	I-OTH	-	EmilStenstrom
-11	577-584	I-OTH	-	EmilStenstrom
+3	American	O	-	-
+4	Journal	O	-	-
+5	of	O	-	-
+6	Orthopsychiatry	O	-	-
+7	,	O	-	-
+8	1958	O	-	-
+9	,	O	-	-
+10	xxviii	O	-	-
+11	577-584	O	-	-
 12	.	O	-	-
 
 # sent_id = P408-0052
@@ -1548,24 +1548,24 @@
 4	I.	I-PER	-	EmilStenstrom
 5	Rabin	I-PER	-	EmilStenstrom
 6	:	O	-	-
-7	Kibbutzchildren	B-OTH	-	EmilStenstrom
-8	-	I-OTH	-	EmilStenstrom
-9	Researchfindings	I-OTH	-	EmilStenstrom
-10	to	I-OTH	-	EmilStenstrom
-11	Date	I-OTH	-	EmilStenstrom
+7	Kibbutzchildren	O	-	-
+8	-	O	-	-
+9	Researchfindings	O	-	-
+10	to	O	-	-
+11	Date	O	-	-
 12	.	O	-	-
 
 # sent_id = P408-0057
 # text = Publicerad i Children 1958, Vol. 5, 179-184 .
 1	Publicerad	O	-	-
 2	i	O	-	-
-3	Children	B-OTH	-	EmilStenstrom
-4	1958	I-OTH	-	EmilStenstrom
-5	,	I-OTH	-	EmilStenstrom
-6	Vol.	I-OTH	-	EmilStenstrom
-7	5	I-OTH	-	EmilStenstrom
-8	,	I-OTH	-	EmilStenstrom
-9	179-184	I-OTH	-	EmilStenstrom
+3	Children	O	-	-
+4	1958	O	-	-
+5	,	O	-	-
+6	Vol.	O	-	-
+7	5	O	-	-
+8	,	O	-	-
+9	179-184	O	-	-
 10	.	O	-	-
 
 # sent_id = P408-0058
@@ -2692,7 +2692,7 @@
 
 # sent_id = P409-0034
 # text = LO-SAF-uppgörelsen 1960 har i princip erkänt likalönen och den genomförs idag i den meningen att mätbart likvärdiga prestationer avlönas lika utan avseende på kön.
-1	LO-SAF-uppgörelsen	B-OTH	-	EmilStenstrom
+1	LO-SAF-uppgörelsen	O	-	-
 2	1960	O	-	-
 3	har	O	-	-
 4	i	O	-	-
@@ -7485,9 +7485,9 @@
 6	Dagbladets	I-ORG	-	EmilStenstrom
 7	debatt	O	-	-
 8	'	O	-	-
-9	Hemmafru	B-OTH	-	EmilStenstrom
-10	i	I-OTH	-	EmilStenstrom
-11	skatteskruv	I-OTH	-	EmilStenstrom
+9	Hemmafru	O	-	-
+10	i	O	-	-
+11	skatteskruv	O	-	-
 12	'	O	-	-
 13	(	O	-	-
 14	vänstra	O	-	-
@@ -7500,9 +7500,9 @@
 21	Kajsa	B-PER	-	EmilStenstrom
 22	Ohrlander	I-PER	-	EmilStenstrom
 23	:	O	-	-
-24	Kvinnor	B-OTH	-	EmilStenstrom
-25	som	I-OTH	-	EmilStenstrom
-26	slavar	I-OTH	-	EmilStenstrom
+24	Kvinnor	O	-	-
+25	som	O	-	-
+26	slavar	O	-	-
 27	,	O	-	-
 28	Aldus	B-ORG	-	EmilStenstrom
 29	/	I-ORG	-	EmilStenstrom
@@ -9352,7 +9352,7 @@
 5	och	O	-	-
 6	rätt	O	-	-
 7	till	O	-	-
-8	ATP-poäng	B-OTH	-	EmilStenstrom
+8	ATP-poäng	O	-	-
 9	för	O	-	-
 10	vårdande	O	-	-
 11	verksamhet	O	-	-
@@ -9394,12 +9394,12 @@
 7	Baude	I-PER	-	EmilStenstrom
 8	,	O	-	-
 9	'	O	-	-
-10	Att	B-OTH	-	EmilStenstrom
-11	bygga	I-OTH	-	EmilStenstrom
-12	ekonomisk	I-OTH	-	EmilStenstrom
-13	trygghet	I-OTH	-	EmilStenstrom
-14	på	I-OTH	-	EmilStenstrom
-15	känslor	I-OTH	-	EmilStenstrom
+10	Att	O	-	-
+11	bygga	O	-	-
+12	ekonomisk	O	-	-
+13	trygghet	O	-	-
+14	på	O	-	-
+15	känslor	O	-	-
 16	'	O	-	-
 17	.	O	-	-
 
@@ -10084,8 +10084,8 @@
 # text = Jonsson-Kälvesten i 222 Stockholmspojkar.
 1	Jonsson-Kälvesten	B-PER	-	EmilStenstrom
 2	i	O	-	-
-3	222	B-OTH	-	EmilStenstrom
-4	Stockholmspojkar	I-OTH	-	EmilStenstrom
+3	222	O	-	-
+4	Stockholmspojkar	O	-	-
 5	.	O	-	-
 
 # sent_id = P417-0029
@@ -10552,8 +10552,8 @@
 2	med	O	-	-
 3	hjälp	O	-	-
 4	av	O	-	-
-5	Statistisk	B-OTH	-	EmilStenstrom
-6	årsbok	I-OTH	-	EmilStenstrom
+5	Statistisk	O	-	-
+6	årsbok	O	-	-
 7	reda	O	-	-
 8	på	O	-	-
 9	hur	O	-	-
