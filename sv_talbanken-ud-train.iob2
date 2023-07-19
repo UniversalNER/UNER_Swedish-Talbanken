@@ -5542,7 +5542,7 @@
 11	i	O	-	-
 12	häftet	O	-	-
 13	'	O	-	-
-14	Masskorsband	B-OTH	-	EmilStenstrom
+14	Masskorsband	O	-	-
 15	'	O	-	-
 16	,	O	-	-
 17	som	O	-	-
@@ -6082,11 +6082,11 @@
 10	också	O	-	-
 11	i	O	-	-
 12	'	O	-	-
-13	Förteckning	B-OTH	-	EmilStenstrom
-14	över	I-OTH	-	EmilStenstrom
-15	postanstalter	I-OTH	-	EmilStenstrom
-16	i	I-OTH	-	EmilStenstrom
-17	Sverige	I-OTH	-	EmilStenstrom
+13	Förteckning	O	-	-
+14	över	O	-	-
+15	postanstalter	O	-	-
+16	i	O	-	-
+17	Sverige	O	-	-
 18	'	O	-	-
 19	.	O	-	-
 
@@ -6412,11 +6412,11 @@
 10	också	O	-	-
 11	i	O	-	-
 12	'	O	-	-
-13	Förteckning	B-OTH	-	EmilStenstrom
-14	över	I-OTH	-	EmilStenstrom
-15	postanstalter	I-OTH	-	EmilStenstrom
-16	i	I-OTH	-	EmilStenstrom
-17	Sverige	I-OTH	-	EmilStenstrom
+13	Förteckning	O	-	-
+14	över	O	-	-
+15	postanstalter	O	-	-
+16	i	O	-	-
+17	Sverige	O	-	-
 18	'	O	-	-
 19	.	O	-	-
 
@@ -13340,8 +13340,8 @@
 2	på	O	-	-
 3	flytväst	O	-	-
 4	med	O	-	-
-5	VDN	B-OTH	-	EmilStenstrom
-6	Fakta	I-OTH	-	EmilStenstrom
+5	VDN	O	-	-
+6	Fakta	O	-	-
 
 # sent_id = P117-0017
 # text = Den är flytriktig.
@@ -13530,8 +13530,8 @@
 15	enligt	O	-	-
 16	deklarationen	O	-	-
 17	i	O	-	-
-18	VDN	B-OTH	-	EmilStenstrom
-19	Fakta	I-OTH	-	EmilStenstrom
+18	VDN	O	-	-
+19	Fakta	O	-	-
 20	påverkas	O	-	-
 21	av	O	-	-
 22	tvättmedel	O	-	-
@@ -13650,8 +13650,8 @@
 # text = Flytvästar med VDN Fakta för de minsta barnen kostar mellan drygt 30 kronor och nära 60 kronor.
 1	Flytvästar	O	-	-
 2	med	O	-	-
-3	VDN	B-OTH	-	EmilStenstrom
-4	Fakta	I-OTH	-	EmilStenstrom
+3	VDN	O	-	-
+4	Fakta	O	-	-
 5	för	O	-	-
 6	de	O	-	-
 7	minsta	O	-	-
@@ -13807,8 +13807,8 @@
 10	att	O	-	-
 11	västar	O	-	-
 12	med	O	-	-
-13	VDN	B-OTH	-	EmilStenstrom
-14	Fakta	I-OTH	-	EmilStenstrom
+13	VDN	O	-	-
+14	Fakta	O	-	-
 15	fyller	O	-	-
 16	sin	O	-	-
 17	funktion	O	-	-
@@ -18309,7 +18309,7 @@
 9	till	O	-	-
 10	dess	O	-	-
 11	isotop	O	-	-
-12	U235	B-OTH	-	EmilStenstrom
+12	U235	O	-	-
 13	,	O	-	-
 14	som	O	-	-
 15	är	O	-	-
@@ -18325,7 +18325,7 @@
 5	0,7	O	-	-
 6	%	O	-	-
 7	av	O	-	-
-8	U235	B-OTH	-	EmilStenstrom
+8	U235	O	-	-
 9	.	O	-	-
 
 # sent_id = P123-0005
@@ -18489,7 +18489,7 @@
 20	ökat	O	-	-
 21	halten	O	-	-
 22	av	O	-	-
-23	U235	B-OTH	-	EmilStenstrom
+23	U235	O	-	-
 24	från	O	-	-
 25	0,7	O	-	-
 26	till	O	-	-
@@ -18569,7 +18569,7 @@
 33	där	O	-	-
 34	det	O	-	-
 35	klyvbara	O	-	-
-36	U235	B-OTH	-	EmilStenstrom
+36	U235	O	-	-
 37	ingår	O	-	-
 38	.	O	-	-
 
@@ -18595,11 +18595,11 @@
 4	kallas	O	-	-
 5	kokarreaktor	O	-	-
 6	,	O	-	-
-7	BWR	B-OTH	-	EmilStenstrom
+7	BWR	O	-	-
 8	eller	O	-	-
-9	Boiling	B-OTH	-	EmilStenstrom
-10	Water	I-OTH	-	EmilStenstrom
-11	Reactor	I-OTH	-	EmilStenstrom
+9	Boiling	O	-	-
+10	Water	O	-	-
+11	Reactor	O	-	-
 12	.	O	-	-
 
 # sent_id = P123-0019
@@ -18677,11 +18677,11 @@
 3	kallas	O	-	-
 4	tryckvattenreaktor	O	-	-
 5	,	O	-	-
-6	PWR	B-OTH	-	EmilStenstrom
+6	PWR	O	-	-
 7	eller	O	-	-
-8	Pressurized	B-OTH	-	EmilStenstrom
-9	Water	I-OTH	-	EmilStenstrom
-10	Reactor	I-OTH	-	EmilStenstrom
+8	Pressurized	O	-	-
+9	Water	O	-	-
+10	Reactor	O	-	-
 11	.	O	-	-
 
 # sent_id = P123-0024
@@ -19630,7 +19630,7 @@
 8	bl.a.	O	-	-
 9	i	O	-	-
 10	veckotidningen	O	-	-
-11	Arbetsmarknaden	B-OTH	-	EmilStenstrom
+11	Arbetsmarknaden	O	-	-
 12	och	O	-	-
 13	i	O	-	-
 14	lokala	O	-	-
@@ -22226,7 +22226,7 @@
 8	bl a	O	-	-
 9	i	O	-	-
 10	veckotidningen	O	-	-
-11	Arbetsmarknaden	B-OTH	-	EmilStenstrom
+11	Arbetsmarknaden	O	-	-
 12	och	O	-	-
 13	i	O	-	-
 14	lokala	O	-	-
@@ -22425,8 +22425,8 @@
 5	igen	O	-	-
 6	,	O	-	-
 7	sa	O	-	-
-8	De	B-OTH	-	EmilStenstrom
-9	Sex	I-OTH	-	EmilStenstrom
+8	De	O	-	-
+9	Sex	O	-	-
 10	och	O	-	-
 11	slog	O	-	-
 12	sig	O	-	-
@@ -24101,8 +24101,8 @@
 8	gemensamma	O	-	-
 9	marknaden	O	-	-
 10	.	O	-	-
-11	De	B-OTH	-	EmilStenstrom
-12	sex	I-OTH	-	EmilStenstrom
+11	De	O	-	-
+12	sex	O	-	-
 13	)	O	-	-
 14	.	O	-	-
 
@@ -24143,8 +24143,8 @@
 # sent_id = P201-0113
 # text = I de sex EEC-länderna bor 185 miljoner människor.
 1	I	O	-	-
-2	de	B-OTH	-	EmilStenstrom
-3	sex	I-OTH	-	EmilStenstrom
+2	de	O	-	-
+3	sex	O	-	-
 4	EEC-länderna	B-LOC	-	EmilStenstrom
 5	bor	O	-	-
 6	185	O	-	-
@@ -24534,8 +24534,8 @@
 6	i	O	-	-
 7	Rom-fördraget	O	-	-
 8	som	O	-	-
-9	de	B-OTH	-	EmilStenstrom
-10	sex	I-OTH	-	EmilStenstrom
+9	de	O	-	-
+10	sex	O	-	-
 11	länderna	O	-	-
 12	skrev	O	-	-
 13	under	O	-	-
@@ -29567,8 +29567,8 @@
 11	att	O	-	-
 12	göra	O	-	-
 13	en	O	-	-
-14	medicinsk	B-OTH	-	EmilStenstrom
-15	bildtolk	I-OTH	-	EmilStenstrom
+14	medicinsk	O	-	-
+15	bildtolk	O	-	-
 16	,	O	-	-
 17	som	O	-	-
 18	ger	O	-	-
@@ -29764,8 +29764,8 @@
 29	varit	O	-	-
 30	att	O	-	-
 31	'	O	-	-
-32	Medicinsk	B-OTH	-	EmilStenstrom
-33	bildtolk	I-OTH	-	EmilStenstrom
+32	Medicinsk	O	-	-
+33	bildtolk	O	-	-
 34	'	O	-	-
 35	också	O	-	-
 36	skall	O	-	-
@@ -29856,8 +29856,8 @@
 # sent_id = P208-0018
 # text = 'Medicinsk bildtolk' gör det i en kort bildsvit på ett klarläggande sätt.
 1	'	O	-	-
-2	Medicinsk	B-OTH	-	EmilStenstrom
-3	bildtolk	I-OTH	-	EmilStenstrom
+2	Medicinsk	O	-	-
+3	bildtolk	O	-	-
 4	'	O	-	-
 5	gör	O	-	-
 6	det	O	-	-
@@ -29911,8 +29911,8 @@
 # text = I 'Medicinsk bildtolk' finns åtta ord, kapitelrubriker:
 1	I	O	-	-
 2	'	O	-	-
-3	Medicinsk	B-OTH	-	EmilStenstrom
-4	bildtolk	I-OTH	-	EmilStenstrom
+3	Medicinsk	O	-	-
+4	bildtolk	O	-	-
 5	'	O	-	-
 6	finns	O	-	-
 7	åtta	O	-	-
@@ -30338,8 +30338,8 @@
 
 # sent_id = P208-0051
 # text = Medicinsk bildtolk är första försöket, och trots åtskilliga prov på patienter som inte kan något i Sverige begripligt ord kommer nya upplagor säkert att rymma ännu mera geniala bilduppslag.
-1	Medicinsk	B-OTH	-	EmilStenstrom
-2	bildtolk	I-OTH	-	EmilStenstrom
+1	Medicinsk	O	-	-
+2	bildtolk	O	-	-
 3	är	O	-	-
 4	första	O	-	-
 5	försöket	O	-	-
@@ -30443,8 +30443,8 @@
 # sent_id = P208-0056
 # text = 'Medicinsk bildtolk' vill kapa sjukvårdskostnaderna.
 1	'	O	-	-
-2	Medicinsk	B-OTH	-	EmilStenstrom
-3	bildtolk	I-OTH	-	EmilStenstrom
+2	Medicinsk	O	-	-
+3	bildtolk	O	-	-
 4	'	O	-	-
 5	vill	O	-	-
 6	kapa	O	-	-
@@ -42547,11 +42547,11 @@
 7	OECD-seminarium	O	-	-
 8	över	O	-	-
 9	ämnet	O	-	-
-10	New	B-OTH	-	EmilStenstrom
-11	thinking	I-OTH	-	EmilStenstrom
-12	in	I-OTH	-	EmilStenstrom
-13	school	I-OTH	-	EmilStenstrom
-14	mathematics	I-OTH	-	EmilStenstrom
+10	New	O	-	-
+11	thinking	O	-	-
+12	in	O	-	-
+13	school	O	-	-
+14	mathematics	O	-	-
 15	-	O	-	-
 16	nytt	O	-	-
 17	tänkande	O	-	-
@@ -42838,7 +42838,7 @@
 14	nya	O	-	-
 15	systemet	O	-	-
 16	via	O	-	-
-17	Deltaprojektet	B-OTH	-	EmilStenstrom
+17	Deltaprojektet	O	-	-
 18	.	O	-	-
 
 # sent_id = P226-0037
@@ -46051,7 +46051,7 @@
 2	Gunnar	B-PER	-	EmilStenstrom
 3	Boalt	I-PER	-	EmilStenstrom
 4	,	O	-	-
-5	Familjesociologi	B-OTH	-	EmilStenstrom
+5	Familjesociologi	O	-	-
 6	,	O	-	-
 7	s.	O	-	-
 8	16	O	-	-
@@ -49237,7 +49237,7 @@
 5	erhållits	O	-	-
 6	med	O	-	-
 7	sötvattensgrönalgen	O	-	-
-8	Chlorella	B-OTH	-	EmilStenstrom
+8	Chlorella	O	-	-
 9	.	O	-	-
 
 # sent_id = P303-0091
@@ -51936,8 +51936,8 @@
 11	apostlarnas	O	-	-
 12	förmaningar	O	-	-
 13	i	O	-	-
-14	Nya	B-OTH	-	EmilStenstrom
-15	Testamentet	I-OTH	-	EmilStenstrom
+14	Nya	O	-	-
+15	Testamentet	O	-	-
 16	,	O	-	-
 17	utan	O	-	-
 18	att	O	-	-
@@ -51962,8 +51962,8 @@
 # text = I filmen Min lycka skildrar Agnes Varda en man som lever i ett lyckligt äktenskap och samtidigt har ett lyckligt förhållande med en annan kvinna.
 1	I	O	-	-
 2	filmen	O	-	-
-3	Min	B-OTH	-	EmilStenstrom
-4	lycka	I-OTH	-	EmilStenstrom
+3	Min	O	-	-
+4	lycka	O	-	-
 5	skildrar	O	-	-
 6	Agnes	B-PER	-	EmilStenstrom
 7	Varda	I-PER	-	EmilStenstrom
@@ -52343,9 +52343,9 @@
 2	Brita	B-PER	-	EmilStenstrom
 3	Wigforss	I-PER	-	EmilStenstrom
 4	i	O	-	-
-5	G	B-OTH	-	EmilStenstrom
-6	H	I-OTH	-	EmilStenstrom
-7	T	I-OTH	-	EmilStenstrom
+5	G	O	-	-
+6	H	O	-	-
+7	T	O	-	-
 8	våren	O	-	-
 9	66	O	-	-
 10	.	O	-	-
@@ -59275,7 +59275,7 @@
 # sent_id = P308-0064
 # text = Ljudbildbandet Tryggare informerar om våra sociala förmåner.
 1	Ljudbildbandet	O	-	-
-2	Tryggare	B-OTH	-	EmilStenstrom
+2	Tryggare	O	-	-
 3	informerar	O	-	-
 4	om	O	-	-
 5	våra	O	-	-
@@ -60716,7 +60716,7 @@
 2	Björn	B-PER	-	EmilStenstrom
 3	Runeborgs	I-PER	-	EmilStenstrom
 4	pjäs	O	-	-
-5	Väckarklockan	B-OTH	-	EmilStenstrom
+5	Väckarklockan	O	-	-
 6	,	O	-	-
 7	som	O	-	-
 8	sändes	O	-	-
@@ -60784,7 +60784,7 @@
 24	intervju	O	-	-
 25	kring	O	-	-
 26	TV-pjäsen	O	-	-
-27	Väckarklockan	B-OTH	-	EmilStenstrom
+27	Väckarklockan	O	-	-
 28	.	O	-	-
 
 # newdoc id = P309
@@ -61024,8 +61024,8 @@
 15	Kälvestens	I-PER	-	EmilStenstrom
 16	undersökning	O	-	-
 17	'	O	-	-
-18	222	B-OTH	-	EmilStenstrom
-19	stockholmspojkar	I-OTH	-	EmilStenstrom
+18	222	O	-	-
+19	stockholmspojkar	O	-	-
 20	'	O	-	-
 21	(	O	-	-
 22	Uppsala	B-LOC	-	EmilStenstrom
@@ -61687,8 +61687,8 @@
 # sent_id = P309-0054
 # text = (222 stockholmspojkar, s. 303.)
 1	(	O	-	-
-2	222	B-OTH	-	EmilStenstrom
-3	stockholmspojkar	I-OTH	-	EmilStenstrom
+2	222	O	-	-
+3	stockholmspojkar	O	-	-
 4	,	O	-	-
 5	s.	O	-	-
 6	303	O	-	-
@@ -61849,8 +61849,8 @@
 # sent_id = P309-0064
 # text = (222 stockholmspojkar, s. 305.)
 1	(	O	-	-
-2	222	B-OTH	-	EmilStenstrom
-3	stockholmspojkar	I-OTH	-	EmilStenstrom
+2	222	O	-	-
+3	stockholmspojkar	O	-	-
 4	,	O	-	-
 5	s.	O	-	-
 6	305	O	-	-
@@ -62174,8 +62174,8 @@
 # sent_id = P309-0087
 # text = (222 stockholmspojkar, s. 306-307 .)
 1	(	O	-	-
-2	222	B-OTH	-	EmilStenstrom
-3	stockholmspojkar	I-OTH	-	EmilStenstrom
+2	222	O	-	-
+3	stockholmspojkar	O	-	-
 4	,	O	-	-
 5	s.	O	-	-
 6	306-307	O	-	-
@@ -62225,13 +62225,13 @@
 # sent_id = P309-0091
 # text = (1000 husmödrar om hemarbetet, Konsumentinstitutet meddelar, 1961:9.)
 1	(	O	-	-
-2	1000	B-OTH	-	EmilStenstrom
-3	husmödrar	I-OTH	-	EmilStenstrom
-4	om	I-OTH	-	EmilStenstrom
-5	hemarbetet	I-OTH	-	EmilStenstrom
+2	1000	O	-	-
+3	husmödrar	O	-	-
+4	om	O	-	-
+5	hemarbetet	O	-	-
 6	,	O	-	-
-7	Konsumentinstitutet	B-OTH	-	EmilStenstrom
-8	meddelar	I-OTH	-	EmilStenstrom
+7	Konsumentinstitutet	O	-	-
+8	meddelar	O	-	-
 9	,	O	-	-
 10	1961:9	O	-	-
 11	.	O	-	-
@@ -67187,7 +67187,7 @@
 # sent_id = P313-0030
 # text = I Bibeln omtalas, att det i det gamla Israel inte var ovanligt att en man hade flera hustrur.
 1	I	O	-	-
-2	Bibeln	B-OTH	-	EmilStenstrom
+2	Bibeln	O	-	-
 3	omtalas	O	-	-
 4	,	O	-	-
 5	att	O	-	-
@@ -67438,15 +67438,15 @@
 # text = Medan i Gamla testamentet polygami accepteras, är i Nya testamentet monogami den enda godtagbara familjeformen.
 1	Medan	O	-	-
 2	i	O	-	-
-3	Gamla	B-OTH	-	EmilStenstrom
-4	testamentet	I-OTH	-	EmilStenstrom
+3	Gamla	O	-	-
+4	testamentet	O	-	-
 5	polygami	O	-	-
 6	accepteras	O	-	-
 7	,	O	-	-
 8	är	O	-	-
 9	i	O	-	-
-10	Nya	B-OTH	-	EmilStenstrom
-11	testamentet	I-OTH	-	EmilStenstrom
+10	Nya	O	-	-
+11	testamentet	O	-	-
 12	monogami	O	-	-
 13	den	O	-	-
 14	enda	O	-	-
@@ -67595,7 +67595,7 @@
 # sent_id = P313-0050
 # text = I Bibeln tar både Jesus och Paulus upp de ogiftas problem.
 1	I	O	-	-
-2	Bibeln	B-OTH	-	EmilStenstrom
+2	Bibeln	O	-	-
 3	tar	O	-	-
 4	både	O	-	-
 5	Jesus	B-PER	-	EmilStenstrom
@@ -68614,7 +68614,7 @@
 13	:	O	-	-
 14	den	O	-	-
 15	nya	O	-	-
-16	brottsbalken	B-OTH	-	EmilStenstrom
+16	brottsbalken	O	-	-
 17	,	O	-	-
 18	polisväsendets	O	-	-
 19	förstatligande	O	-	-
@@ -69015,7 +69015,7 @@
 7	påföljd	O	-	-
 8	finns	O	-	-
 9	i	O	-	-
-10	Brottsbalken	B-OTH	-	EmilStenstrom
+10	Brottsbalken	O	-	-
 11	,	O	-	-
 12	som	O	-	-
 13	trädde	O	-	-
@@ -69247,7 +69247,7 @@
 4	påföljderna	O	-	-
 5	finns	O	-	-
 6	i	O	-	-
-7	Brottsbalken	B-OTH	-	EmilStenstrom
+7	Brottsbalken	O	-	-
 8	1	O	-	-
 9	kap.	O	-	-
 10	3	O	-	-
@@ -69418,7 +69418,7 @@
 # sent_id = P314-0050
 # text = Se Kriminalstatistik 1967, Del 1 (SOS).
 1	Se	O	-	-
-2	Kriminalstatistik	B-OTH	-	EmilStenstrom
+2	Kriminalstatistik	O	-	-
 3	1967	O	-	-
 4	,	O	-	-
 5	Del	O	-	-
@@ -69436,15 +69436,15 @@
 4	polisstatistiken	O	-	-
 5	finns	O	-	-
 6	i	O	-	-
-7	Statistisk	B-OTH	-	EmilStenstrom
-8	Årsbok	I-OTH	-	EmilStenstrom
+7	Statistisk	O	-	-
+8	Årsbok	O	-	-
 9	.	O	-	-
 
 # sent_id = P314-0052
 # text = Se vidare Brottsbalken kap. 8 (stöld, rån och andra tillgreppsbrott); Sveri m.fl., kap. 1; Nelson, kap. De särskilda brotten.
 1	Se	O	-	-
 2	vidare	O	-	-
-3	Brottsbalken	B-OTH	-	EmilStenstrom
+3	Brottsbalken	O	-	-
 4	kap.	O	-	-
 5	8	O	-	-
 6	(	O	-	-
@@ -69571,7 +69571,7 @@
 # sent_id = P314-0059
 # text = Se Brottsligheten 1965 och 1966 (SOS).
 1	Se	O	-	-
-2	Brottsligheten	B-OTH	-	EmilStenstrom
+2	Brottsligheten	O	-	-
 3	1965	O	-	-
 4	och	O	-	-
 5	1966	O	-	-
@@ -73113,7 +73113,7 @@
 25	ett	O	-	-
 26	inlägg	O	-	-
 27	i	O	-	-
-28	Hertha	B-OTH	-	EmilStenstrom
+28	Hertha	O	-	-
 29	(	O	-	-
 30	1964:4	O	-	-
 31	)	O	-	-
@@ -74785,8 +74785,8 @@
 3	Martin	B-PER	-	EmilStenstrom
 4	Luther	I-PER	-	EmilStenstrom
 5	i	O	-	-
-6	Stora	B-OTH	-	EmilStenstrom
-7	Katekesen	I-OTH	-	EmilStenstrom
+6	Stora	O	-	-
+7	Katekesen	O	-	-
 8	utlagt	O	-	-
 9	detta	O	-	-
 10	:	O	-	-
@@ -74912,7 +74912,7 @@
 # sent_id = P405-0022
 # text = 1 SKB, sid. 240.
 1	1	O	-	-
-2	SKB	B-OTH	-	EmilStenstrom
+2	SKB	O	-	-
 3	,	O	-	-
 4	sid.	O	-	-
 5	240	O	-	-
@@ -74980,8 +74980,8 @@
 # sent_id = P405-0025
 # text = 3 NTU III, sid. 1257.
 1	3	O	-	-
-2	NTU	B-OTH	-	EmilStenstrom
-3	III	I-OTH	-	EmilStenstrom
+2	NTU	O	-	-
+3	III	O	-	-
 4	,	O	-	-
 5	sid.	O	-	-
 6	1257	O	-	-
@@ -75417,7 +75417,7 @@
 # sent_id = P405-0043
 # text = 2 SKB, s. 421.
 1	2	O	-	-
-2	SKB	B-OTH	-	EmilStenstrom
+2	SKB	O	-	-
 3	,	O	-	-
 4	s.	O	-	-
 5	421	O	-	-
@@ -76520,8 +76520,8 @@
 24	inte	O	-	-
 25	berörs	O	-	-
 26	i	O	-	-
-27	Nya	B-OTH	-	EmilStenstrom
-28	testamentet	I-OTH	-	EmilStenstrom
+27	Nya	O	-	-
+28	testamentet	O	-	-
 29	.	O	-	-
 
 # sent_id = P406-0024

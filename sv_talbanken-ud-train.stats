@@ -1,0 +1,18 @@
+{
+  "dataset_id": "sv_talbanken-ud-train",
+  "num_documents": 62,
+  "num_annotated_documents": 62,
+  "num_annotations": 1089,
+  "num_annotators": 1,
+  "annotator_ids": [
+    "emil"
+  ],
+  "num_docs_with_multiple_annotators": 0,
+  "num_sentences": 4303,
+  "num_tokens": 66646,
+  "label_distribution": {
+    "ORG": 213,
+    "LOC": 504,
+    "PER": 250
+  }
+}
