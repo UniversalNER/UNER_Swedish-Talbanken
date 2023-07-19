@@ -6370,7 +6370,7 @@
 7	har	O	-	-
 8	i	O	-	-
 9	'	O	-	-
-10	Domedagsboken	B-OTH	-	EmilStenstrom
+10	Domedagsboken	O	-	-
 11	'	O	-	-
 12	(	O	-	-
 13	Forum	B-ORG	-	EmilStenstrom
@@ -13309,7 +13309,7 @@
 4	en	O	-	-
 5	växt	O	-	-
 6	,	O	-	-
-7	Rauwolfia	B-OTH	-	EmilStenstrom
+7	Rauwolfia	O	-	-
 8	,	O	-	-
 9	som	O	-	-
 10	befolkningen	O	-	-
@@ -13403,7 +13403,7 @@
 
 # sent_id = P301-0084
 # text = Rauwolfia-växten, ur vars rötter reserpin framställes.
-1	Rauwolfia-växten	B-OTH	-	EmilStenstrom
+1	Rauwolfia-växten	O	-	-
 2	,	O	-	-
 3	ur	O	-	-
 4	vars	O	-	-
@@ -13465,7 +13465,7 @@
 1	Ett	O	-	-
 2	annat	O	-	-
 3	är	O	-	-
-4	Lergigan	B-OTH	-	EmilStenstrom
+4	Lergigan	O	-	-
 5	,	O	-	-
 6	som	O	-	-
 7	användes	O	-	-
@@ -13584,7 +13584,7 @@
 8	mest	O	-	-
 9	kända	O	-	-
 10	är	O	-	-
-11	Preludin	B-OTH	-	EmilStenstrom
+11	Preludin	O	-	-
 12	.	O	-	-
 
 # sent_id = P301-0093
