@@ -2,17 +2,56 @@
   "dataset_id": "sv_talbanken-ud-dev",
   "num_documents": 8,
   "num_annotated_documents": 8,
-  "num_annotations": 42,
-  "num_annotators": 1,
+  "num_annotations": 97,
+  "num_annotators": 3,
   "annotator_ids": [
-    "emil"
+    "borje",
+    "emil",
+    "krantz"
   ],
-  "num_docs_with_multiple_annotators": 0,
+  "num_docs_with_multiple_annotators": 8,
   "num_sentences": 504,
   "num_tokens": 9797,
   "label_distribution": {
     "PER": 13,
     "LOC": 5,
     "ORG": 5
+  },
+  "pairwise_f1": {
+    "ref:emil, pred:krantz": {
+      "num_common_annotated_docs": 8,
+      "LOC": {
+        "precision": 0.8,
+        "recall": 0.8,
+        "f1": 0.8000000000000002
+      },
+      "ORG": {
+        "precision": 0.375,
+        "recall": 0.6,
+        "f1": 0.4615384615384615
+      },
+      "PER": {
+        "precision": 0.8571428571428571,
+        "recall": 0.9230769230769231,
+        "f1": 0.888888888888889
+      }
+    },
+    "average": {
+      "LOC": {
+        "precision": 0.8,
+        "recall": 0.8,
+        "f1": 0.8000000000000002
+      },
+      "ORG": {
+        "precision": 0.375,
+        "recall": 0.6,
+        "f1": 0.4615384615384615
+      },
+      "PER": {
+        "precision": 0.8571428571428571,
+        "recall": 0.9230769230769231,
+        "f1": 0.888888888888889
+      }
+    }
   }
 }
