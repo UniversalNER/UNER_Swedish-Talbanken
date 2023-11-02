@@ -2,17 +2,55 @@
   "dataset_id": "sv_talbanken-ud-train",
   "num_documents": 62,
   "num_annotated_documents": 62,
-  "num_annotations": 1089,
-  "num_annotators": 1,
+  "num_annotations": 2081,
+  "num_annotators": 2,
   "annotator_ids": [
-    "emil"
+    "emil",
+    "krantz"
   ],
-  "num_docs_with_multiple_annotators": 0,
+  "num_docs_with_multiple_annotators": 62,
   "num_sentences": 4303,
   "num_tokens": 66646,
   "label_distribution": {
     "ORG": 213,
     "LOC": 504,
     "PER": 250
+  },
+  "pairwise_f1": {
+    "ref:emil, pred:krantz": {
+      "num_common_annotated_docs": 62,
+      "LOC": {
+        "precision": 0.9070796460176991,
+        "recall": 0.8134920634920635,
+        "f1": 0.8577405857740585
+      },
+      "ORG": {
+        "precision": 0.6234817813765182,
+        "recall": 0.7230046948356808,
+        "f1": 0.6695652173913043
+      },
+      "PER": {
+        "precision": 0.9521739130434783,
+        "recall": 0.876,
+        "f1": 0.9125000000000001
+      }
+    },
+    "average": {
+      "LOC": {
+        "precision": 0.9070796460176991,
+        "recall": 0.8134920634920635,
+        "f1": 0.8577405857740585
+      },
+      "ORG": {
+        "precision": 0.6234817813765182,
+        "recall": 0.7230046948356808,
+        "f1": 0.6695652173913043
+      },
+      "PER": {
+        "precision": 0.9521739130434783,
+        "recall": 0.876,
+        "f1": 0.9125000000000001
+      }
+    }
   }
 }
