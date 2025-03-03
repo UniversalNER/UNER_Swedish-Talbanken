@@ -1,0 +1,18 @@
+name: Sync with Hugging Face Hub
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Sync with Hugging Face
+      uses: nateraw/huggingface-sync-action@v0.0.4
+      with:
+        github_repo_id: UniversalNER/UNER_Swedish-Talbanken
+        huggingface_repo_id: universalner/UNER_Swedish-Talbanken
+        repo_type: dataset
+        hf_token: ${{ secrets.HF_TOKEN }}
